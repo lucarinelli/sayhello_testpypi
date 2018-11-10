@@ -1,3 +1,3 @@
 # Say Hello
-A sample python project to test packaging and pypi
+A simple python project to test packaging and pypi
 
