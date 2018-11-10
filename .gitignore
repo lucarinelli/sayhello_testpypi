@@ -1,0 +1,5 @@
+build/
+dist/
+sayhello_testpypi.egg-info
+venv
+.idea
